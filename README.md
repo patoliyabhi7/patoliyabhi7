@@ -3,19 +3,19 @@
 ## About Me :information_source:
 I'm currently a  full-stack MERN developer at Movya Infotech. I work on live projects, specializing in building scalable, responsive web applications. Passionate about coding and exploring new technologies, I’m always seeking innovative ways to solve real-world challenges.
 
-## Internship & Work Experience :briefcase:
+## Work Experience :briefcase:
 - **Current Position:** Software Engineer at Movya Infotech, specializing in MERN (MongoDB, Express.js, React, Node.js) stack.
 - **Past Internship:** Completed a 4-month internship in Node.js, gaining in-depth experience with back-end development before transitioning into full-stack and front-end roles.
 
 ## Education :books:
 - **Diploma:** Information Technology (IT)
-  - **Institution:** LJ Polytechnic
+  - **University:** LJ Polytechnic
 - **Bachelor's Degree:** Bachelor of Engineering in Information Technology
-  - **Institution:** NLJIET (New LJ Institute of Engineering & Technology)
+  - **University:** NLJIET (New LJ Institute of Engineering & Technology)
 
 ## Skills :rocket:
 - **Programming Languages:** JavaScript, Python
-- **Technologies:** Node.js, Express.js, Django, MongoDB, MySQL, React, Tailwind CSS
+- **Technologies:** React, Node.js, Express.js, Django, MongoDB, MySQL, Tailwind CSS
 - **Additional Skills:** REST APIs, Front-End Design, Problem Solving, Team Collaboration, Git/GitHub
 - **Other Tools:** Agile Methodologies, Responsive Design, CI/CD Integration
 
